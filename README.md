@@ -29,7 +29,7 @@ The results are shown in the following:
 
 #### Notes
 - Our codes are modified from [E2E Soft Teacher](https://github.com/microsoft/SoftTeacher)
-- The project is based on `mmdetection v2.16.0`, the corresponding package is uploaded in this project.
+- The project is based on `mmdetection v2.16.0`.
 ### Installation
 ```
 make install
